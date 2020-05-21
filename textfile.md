@@ -1,4 +1,4 @@
-Some Text
+Some Text - Great Title
 
 Commit 1
 
